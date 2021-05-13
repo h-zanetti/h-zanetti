@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Henrique Zanetti
 - 👀 I’m interested in software development and automation
 - 🌱 I’m currently learning Python and the Django framework
-- 📫 How to reach me -> henriaguiar99@gmail.com
+- 📫 You can reach me at henriaguiar99@gmail.com
 - Most of the software I make is open source, feel free to use it and collaborate! 
 
 <!---
