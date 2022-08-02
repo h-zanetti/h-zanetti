@@ -5,7 +5,7 @@
 - :rocket: Most of the software I make is open source, feel free to use it and to collaborate! 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=h-zanetti&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=h-zanetti&show_icons=true&theme=tokyonight&hide_border=True)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!---
