@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Henrique Zanetti
 - 👀 I’m a Python expert and professional Data Analyst
-- 🌱 I’m currently studying Smart Contracts Development on Web3
+- 🌱 I’m currently studying Smart Contracts Development with Solidity
 - 📫 You can reach me at henriaguiar99@gmail.com
 - :rocket: Most of the software I make is open source, so feel free to use it and to collaborate! 
 
