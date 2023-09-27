@@ -4,11 +4,11 @@
 - 📫 You can reach me at henriaguiar99@gmail.com
 - :rocket: Most of the software I make is open source, so feel free to use it and to collaborate! 
 
+<!---
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=h-zanetti&show_icons=true&theme=tokyonight&hide_border=True&count_private=true)](https://github.com/h-zanetti)
 
 
-<!---
 h-zanetti/h-zanetti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
